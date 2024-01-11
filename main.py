@@ -1,7 +1,7 @@
 import smtplib
 
 my_acc = "isolatedman100@gmail.com"
-passs = "ovynxjohttoowciq"
+passs = "************"
 
 # Use SMTP_SSL for a secure connection
 with smtplib.SMTP_SSL("smtp.gmail.com", 465) as connect:
